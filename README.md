@@ -186,5 +186,5 @@ RETAIL360 demonstrates an IoT-based smart shopping trolley that automatically id
 The integration of RFID, ESP8266, Wi-Fi, and Google Sheets provides an automated approach to supermarket billing and helps reduce manual scanning and checkout time.
 
 # 
-
+![result](result.jpeg)
 # 
